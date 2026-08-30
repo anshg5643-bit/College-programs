@@ -3,10 +3,10 @@
 // 5. Div
 
 int main(){
-    int a,b;
+    float a,b;
     printf("Enter 1 number: ");
-    scanf("%d",&a);
+    scanf("%f",&a);
     printf("Enter 2 number: ");
-    scanf("%d",&b);
-    printf("Div: %d",a/b);
+    scanf("%f",&b);
+    printf("Div: %f",a/b);
 }
