@@ -1,1 +1,1 @@
-# This repo contains c programs.
+# This repo contains c programs.(ft.MAIT)
